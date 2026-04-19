@@ -1,0 +1,6 @@
+@Whallie_DoAnCuoiKyNhapMonCongNghePhanMem_HostAddress = http://localhost:5258
+
+GET {{Whallie_DoAnCuoiKyNhapMonCongNghePhanMem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
